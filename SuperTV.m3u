@@ -1,6 +1,15 @@
 #EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
 
 
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
+#EXTINF:-1 group-title="Федеральные", Россия 1 HD
+http://46.32.176.50/RossiyaHD/index.m3u8
+#EXTINF:-1 group-title="Rutube 💎",Матч! HD
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=X4W1ipNuOnqSHZIawEq4RA&e=2066519928&scheme=https
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,Народ Всё Видит
 http://89.218.32.179:18000/play/a04f
@@ -2091,6 +2100,38 @@ https://tinyurl.com/2ydo28md
 #EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ" , Русскоезал! СССР
 https://tinyurl.com/2apctqtg
 
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime HD
+http://37.46.49.14:18010/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NBA TV HD
+http://37.46.49.14:18010/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",QAZSPORT HD
+http://37.46.49.14:18010/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Qazaqstan
+http://37.46.49.14:18010/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sport Eurasia
+http://37.46.49.14:18010/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sport Eurasia Plus
+http://37.46.49.14:18010/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sky Sports Premier League
+http://37.46.49.14:18010/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sport+ [KZ]
+http://37.46.49.14:18010/play/a056/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
+http://37.46.49.14:18010/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://37.46.49.14:18010/play/a09i/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://37.46.49.14:18010/play/a09g/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+http://37.46.49.14:18010/play/a09o/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://37.46.49.14:18010/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://37.46.49.14:18010/play/a09d/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
+http://37.46.49.14:18010/play/a09e/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
+http://37.46.49.14:18010/play/a09f/index.m3u8
 
 
 
@@ -9555,8 +9596,7 @@ https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=A6
 #EXTINF:-1 group-title="Rutube 💎",Магас
 https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=RjmdLZSzfnqG9UbIc5rAqg&e=2069285070&scheme=https
 #EXTINF:-1 group-title="Rutube 💎",Магас HD
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=OwnKCCEdf_LJpzXN7qCZWA&e=2066519834&scheme=https
-#EXTINF:-1 group-title="Rutube 💎",Матч ТВ HD
+с
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=W76dQnw6UUOMTcTX-QSm8A&e=2069285079&scheme=https
 #EXTINF:-1 group-title="Rutube 💎",Матч! HD
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=X4W1ipNuOnqSHZIawEq4RA&e=2066519928&scheme=https
