@@ -23,6 +23,21 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ОТР" tvg-logo="https://i.ibb.co/tHtfQY1/resize-54.png" group-title="Федеральные", ОТР
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТВ Центр" tvg-logo="https://i.ibb.co/c2RmVrf/resize-58.png" group-title="Федеральные", ТВ Центр
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Федеральные", РЕН ТВ
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/124/logo_256_1655445048.png", Спас
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/AtM2mjbYOJc7fiKdz1ysng,1781247233/streaming/spas/324/5/tracks-v5a1/mono.m3u8
 
 
 
@@ -1956,6 +1971,7 @@ https://tinyurl.com/2ydo28md
 #EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ" , Русскоезал! СССР
 https://tinyurl.com/2apctqtg
 
+
 #EXTINF:-1 group-title="ТРИКОЛОР",360° Международный
 https://stream-msk-14.ott.tricolor.tv/dtv/id941_MSKSG-PVR-1--Telekanal_360_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MjUxODI2MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxOTEzNDYyLCJzZXNzaW9uX2lkIjoiZWI5ZGJiZTMwMWQ4NjJmNzEzMjE5NjI4YzE1NTAxMzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kLawXpq7_CkPwhrZGSyQWuMHtm1iHDKijvP0IEBPcbw
 #EXTINF:-1 group-title="ТРИКОЛОР",6 КАДРОВ
@@ -2270,40 +2286,281 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-PVR-1--Channel_LIVE3/03/pls
 http://stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MjUxODI2MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxOTEzNDYyLCJzZXNzaW9uX2lkIjoiZWI5ZGJiZTMwMWQ4NjJmNzEzMjE5NjI4YzE1NTAxMzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kLawXpq7_CkPwhrZGSyQWuMHtm1iHDKijvP0IEBPcbw
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime HD
-http://37.46.49.14:18010/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",NBA TV HD
-http://37.46.49.14:18010/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",QAZSPORT HD
-http://37.46.49.14:18010/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Qazaqstan
-http://37.46.49.14:18010/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sport Eurasia
-http://37.46.49.14:18010/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sport Eurasia Plus
-http://37.46.49.14:18010/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Sky Sports Premier League
-http://37.46.49.14:18010/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sport+ [KZ]
-http://37.46.49.14:18010/play/a056/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://37.46.49.14:18010/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
-http://37.46.49.14:18010/play/a09i/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
-http://37.46.49.14:18010/play/a09g/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
-http://37.46.49.14:18010/play/a09o/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://37.46.49.14:18010/play/a08i/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
-http://37.46.49.14:18010/play/a09d/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
-http://37.46.49.14:18010/play/a09e/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
-http://37.46.49.14:18010/play/a09f/index.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qMMFQqXt/image-55.png" group-title="Спорткомплекс 🏆", 1TV Sport GE
+#EXTGRP:Спорткомплекс 🏆
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pjMWxZB8/image-28.png" group-title="Спорткомплекс 🏆", Астрахань.Ru Sport
+#EXTGRP:Спорткомплекс 🏆
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4Rq3PtBg/image-36.png" group-title="Спорткомплекс 🏆", Беларусь 5
+#EXTGRP:Спорткомплекс 🏆
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w1496692200_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LdKsMK6N/image-2025-10-10-T225404-374.png" group-title="Спорткомплекс 🏆", Варзиш ТВ
+#EXTGRP:Спорткомплекс 🏆
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n84rwwZs/image-44.png" group-title="Спорткомплекс 🏆", Удар HD
+#EXTGRP:Спорткомплекс 🏆
+https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tPL4ypYf/image-86.png" group-title="Спорткомплекс 🏆", ACI Sport TV
+#EXTGRP:Спорткомплекс 🏆
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xS5Wj9XL/image-93.png" group-title="Спорткомплекс 🏆", Africa 24 Sport
+#EXTGRP:Спорткомплекс 🏆
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w469272935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99FX0sDV/image-72.png" group-title="Спорткомплекс 🏆",  ATP Tennis
+#EXTGRP:Спорткомплекс 🏆
+http://49.0.64.96:8007/TENNIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Qj863FLh/image-23.png" group-title="Спорткомплекс 🏆", Atlanta United Fan TV
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-auftv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5WHPMPGB/image-32.png" group-title="Спорткомплекс 🏆", Automotion
+#EXTGRP:Спорткомплекс 🏆
+https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXQp3Gng/image-2025-10-10-T204908-756.png" group-title="Спорткомплекс 🏆", Auto Motor Sport
+#EXTGRP:Спорткомплекс 🏆
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kfFyKn2/image-46.png" group-title="Спорткомплекс 🏆", AYOZAT TV
+#EXTGRP:Спорткомплекс 🏆
+https://d25crexw293cfk.cloudfront.net/scheduler/scheduleMaster/479/variant/22100211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hJT2wN4w/image-23.png" group-title="Спорткомплекс 🏆", Bahrain Sports 1
+#EXTGRP:Спорткомплекс 🏆
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1468884202_b1307000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hJT2wN4w/image-23.png" group-title="Спорткомплекс 🏆", Bahrain Sports 2
+#EXTGRP:Спорткомплекс 🏆
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w603427435_b2487000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qMz3yRTZ/image-2025-10-10-T201915-049.png" group-title="Спорткомплекс 🏆", Bein Sports (MMN HD)
+#EXTGRP:Спорткомплекс 🏆
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rf42D159/image-18.png" group-title="Спорткомплекс 🏆", BEK Sports West
+#EXTGRP:Спорткомплекс 🏆
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b1596000_slENG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YFJVQmmS/image-2025-10-10-T230035-933.png" group-title="Спорткомплекс 🏆", Billiars+
+#EXTGRP:Спорткомплекс 🏆
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/d4B1FzGY/image-24.png" group-title="Спорткомплекс 🏆", Billy C Boxing
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-billycboxing/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/j9CCC7rh/image-12.png" group-title="Спорткомплекс 🏆", Campania Sport Canale 21
+#EXTGRP:Спорткомплекс 🏆
+https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/GmJrJMC/image-9.png" group-title="Спорткомплекс 🏆", Canal De Deportes CRTV Chile
+#EXTGRP:Спорткомплекс 🏆
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/23c4GsBD/image-40.png" group-title="Спорткомплекс 🏆", Canal Motor
+#EXTGRP:Спорткомплекс 🏆
+https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/chsHvnMR/image-2025-10-10-T202542-159.png" group-title="Спорткомплекс 🏆", Chile Valparaiso Sporting
+#EXTGRP:Спорткомплекс 🏆
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GQMS1trH/image-18.png" group-title="Спорткомплекс 🏆", Giocabet TV
+#EXTGRP:Спорткомплекс 🏆
+https://live1.giocabet.tv/stream/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9kGkVn4n/image-2025-10-10-T165052-658.png" group-title="Спорткомплекс 🏆", CT Sport
+#EXTGRP:Спорткомплекс 🏆
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99Sq0ZTC/image-4.png" group-title="Спорткомплекс 🏆", Cubik TV
+#EXTGRP:Спорткомплекс 🏆
+https://live.cubiktv.com/hls/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99Sq0ZTC/image-4.png" group-title="Спорткомплекс 🏆", Cubik TV 2
+#EXTGRP:Спорткомплекс 🏆
+https://live.cubiktv.com/hls/cubiktv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7x0cmg12/image-90.png" group-title="Спорткомплекс 🏆", DD Sports
+#EXTGRP:Спорткомплекс 🏆
+https://cdn-6.pishow.tv/live/13/13_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZRztmwFJ/image-66.png" group-title="Спорткомплекс 🏆", Distro - Sports TV Plus
+#EXTGRP:Спорткомплекс 🏆
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/H73N5AA/6B0796F151C2/m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ynNthhbh/image-16.png" group-title="Спорткомплекс 🏆",Duck Hunting TV
+#EXTGRP:Спорткомплекс 🏆
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jvhBmD5N/image-2025-10-11-T012711-517.png" group-title="Спорткомплекс 🏆", Equidia
+#EXTGRP:Спорткомплекс 🏆
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jvhBmD5N/image-2025-10-11-T012711-517.png" group-title="Спорткомплекс 🏆", Equidia Racing Trot
+#EXTGRP:Спорткомплекс 🏆
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7JCP4Gwj/image-2025-10-10-T142130-852.png" group-title="Спорткомплекс 🏆", FanDuel Racing
+#EXTGRP:Спорткомплекс 🏆
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/M5WvN67B/image-4.png" group-title="Спорткомплекс 🏆", Fast Sports
+#EXTGRP:Спорткомплекс 🏆
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PXfcSpn/image-22.png" group-title="Спорткомплекс 🏆", Fight TV Plus
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-fighttvplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ymB7Dz7h/image-19.png" group-title="Спорткомплекс 🏆", Fitness Rewind
+#EXTGRP:Спорткомплекс 🏆
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/EIZ6ZQA/85B2DD818F44/m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cSt1xfCz/image-11.png" group-title="Спорткомплекс 🏆", FTV 
+#EXTGRP:Спорткомплекс 🏆
+https://master.tucableip.com/ftvhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cSS62gmC/image-2025-10-10-T163813-105.png" group-title="Спорткомплекс 🏆", Futbol (TJ)
+#EXTGRP:Спорткомплекс 🏆
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/R4QKBNvq/image-12.png" group-title="Спорткомплекс 🏆", FutGO
+#EXTGRP:Спорткомплекс 🏆
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/212SyfNt/image-16.png" group-title="Спорткомплекс 🏆", Gol Classics
+#EXTGRP:Спорткомплекс 🏆
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DHtHXc43/image-26.png" group-title="Спорткомплекс 🏆", HBCU Gameday
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-HBCU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3Y9GSRGY/image-59.png" group-title="Спорткомплекс 🏆", Horizons Sports
+#EXTGRP:Спорткомплекс 🏆
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/62170944-ffa7-4c2c-b0fe-c0dfe765647b/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3Xr475k/image-2025-10-10-T205150-012.png" group-title="Спорткомплекс 🏆", HT Spor
+#EXTGRP:Спорткомплекс 🏆
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fz6dSgm1/image-2025-10-11-T004014-588.png" group-title="Спорткомплекс 🏆", Inter
+#EXTGRP:Спорткомплекс 🏆
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vxG8H8Th/image-2025-10-10-T210551-306.png" group-title="Спорткомплекс 🏆", Jordan Sport
+#EXTGRP:Спорткомплекс 🏆
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RTxqD1rq/image-43.png" group-title="Спорткомплекс 🏆",  KHL HD
+#EXTGRP:Спорткомплекс 🏆
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YBnB3MXm/image-30.png" group-title="Спорткомплекс 🏆", KTV Sport
+#EXTGRP:Спорткомплекс 🏆
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YBnB3MXm/image-30.png" group-title="Спорткомплекс 🏆", KTV Sport Plus
+#EXTGRP:Спорткомплекс 🏆
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sp8wR0r4/image-4.png" group-title="Спорткомплекс 🏆", Max Sport 1
+#EXTGRP:Спорткомплекс 🏆
+https://live20.bozztv.com/akamaissh101/ssh101/balkanstreammax/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yF4fdh6c/image-2025-10-10-T211740-821.png" group-title="Спорткомплекс 🏆", MGG E-Sport
+#EXTGRP:Спорткомплекс 🏆
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/M5JgszVC/image-2025-10-10-T200111-206.png" group-title="Спорткомплекс 🏆", MNB Sport
+#EXTGRP:Спорткомплекс 🏆
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/0pCmmk08/image-33.png" group-title="Спорткомплекс 🏆", More Than Sports TV
+#EXTGRP:Спорткомплекс 🏆
+https://mts1.iptv-playoutcenter.de/mts/mts-web/mts/mtsw3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DDXZLV1s/image-53.png" group-title="Спорткомплекс 🏆", Motor Racing TV
+#EXTGRP:Спорткомплекс 🏆
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/b19b4e31-a89e-4f85-8791-ea39f57ad1e3/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/mVrCRmxN/image-50.png" group-title="Спорткомплекс 🏆", Motorvision TV
+#EXTGRP:Спорткомплекс 🏆
+https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9HnjfhWm/image-34.png" group-title="Спорткомплекс 🏆", Oman Sports TV
+#EXTGRP:Спорткомплекс 🏆
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yB6HY40Q/image-2025-10-10-T214138-719.png" group-title="Спорткомплекс 🏆", Primokanale Sport
+#EXTGRP:Спорткомплекс 🏆
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rKtVsr1G/image-16.png" group-title="Спорткомплекс 🏆", Realitatea Sportiva
+#EXTGRP:Спорткомплекс 🏆
+https://stream.realitatea.net/realitatea/sportiva_md/medialist_7351611093486677382_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Sw6YZvDg/image-37.png" group-title="Спорткомплекс 🏆", Real Madrid TV
+#EXTGRP:Спорткомплекс 🏆
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rRrWtDfv/image-22.png" group-title="Спорткомплекс 🏆", Red Bull TV
+#EXTGRP:Спорткомплекс 🏆
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kVD5kLFM/image-2025-10-10-T144643-504.png" group-title="Спорткомплекс 🏆", Rete8 Sport 
+#EXTGRP:Спорткомплекс 🏆
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist_w1708599484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/N6z8vtD8/image-27.png" group-title="Спорткомплекс 🏆", Rope2Rope
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-rope2rope/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорткомплекс 🏆", RS News Sports
+#EXTGRP:Спорткомплекс 🏆
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w1908160722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорткомплекс 🏆", RS News Sports 2
+#EXTGRP:Спорткомплекс 🏆
+https://video03.logicahost.com.br/rssports2/rssports2/chunklist_w1763371149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорткомплекс 🏆", RS News Sports 3
+#EXTGRP:Спорткомплекс 🏆
+https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1660273309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорткомплекс 🏆", RS News Sports 4
+#EXTGRP:Спорткомплекс 🏆
+https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w1217226869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорткомплекс 🏆", RS News Sports 5
+#EXTGRP:Спорткомплекс 🏆
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w1651088250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Hfms5CBT/image-9.png" group-title="Спорткомплекс 🏆", Spoops
+#EXTGRP:Спорткомплекс 🏆
+https://rpn3.bozztv.com/dvrfl07/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wNdgHcp3/image-4.png" group-title="Спорткомплекс 🏆", Sportdigital Free
+#EXTGRP:Спорткомплекс 🏆
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Kjsgn7ns/image-16.png" group-title="Спорткомплекс 🏆", Sports Connect
+#EXTGRP:Спорткомплекс 🏆
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/52dbd7c0-5841-43ea-9aa8-c5184538a2fc/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HfRXvMVF/image-11.png" group-title="Спорткомплекс 🏆",  SportsTVPlus
+#EXTGRP:Спорткомплекс 🏆
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/IHLRQ4A/E62BDCC2CDD4/m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZzqD3H4n/image-20.png" group-title="Спорткомплекс 🏆", Sukan
+#EXTGRP:Спорткомплекс 🏆
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1Yp2F7vh/image-43.png" group-title="Спорткомплекс 🏆", Teletrak TV
+#EXTGRP:Спорткомплекс 🏆
+https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/C3QkB8st/image-15.png" group-title="Спорткомплекс 🏆", Test My Ride
+#EXTGRP:Спорткомплекс 🏆
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bjQBWmQr/image-17.png" group-title="Спорткомплекс 🏆", The Grappling Network
+#EXTGRP:Спорткомплекс 🏆
+https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/202BfnSk/image-60.png" group-title="Спорткомплекс 🏆", TJK TV
+#EXTGRP:Спорткомплекс 🏆
+https://tjktv-live.tjk.org/tjktv/tjktv_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fdfpTqBv/image-2025-10-10-T154815-487.png" group-title="Спорткомплекс 🏆", TR Sport
+#EXTGRP:Спорткомплекс 🏆
+https://livetr.teleromagna.it/mia/live/live/mia480/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/39DSqJMt/image-17.png" group-title="Спорткомплекс 🏆", TSN The Ocho
+#EXTGRP:Спорткомплекс 🏆
+http://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/V08h1QhK/image-2025-10-10-T154034-322.png" group-title="Спорткомплекс 🏆", TVS Sports 
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-tvssports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/twJ8ZrPC/image-2025-10-10-T154338-727.png" group-title="Спорткомплекс 🏆", TVS Boxing 
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Cs2L3J4r/image-2025-10-10-T154528-323.png" group-title="Спорткомплекс 🏆", TVS Bowling Network
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GvBns5gg/image-2025-10-10-T154214-976.png" group-title="Спорткомплекс 🏆", TVS Classic Sports
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-tvs/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KcZhLKTK/image-2025-10-10-T153149-249.png" group-title="Спорткомплекс 🏆", TVS Sports Bureau
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KcZhLKTK/image-2025-10-10-T153149-249.png" group-title="Спорткомплекс 🏆", TVS Turbo
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y7Rw62W7/image-2025-10-10-T152940-559.png" group-title="Спорткомплекс 🏆", TVS Women Sports
+#EXTGRP:Спорткомплекс 🏆
+https://rpn.bozztv.com/gusa/gusa-tvswsn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CpLBCbNz/image-2025-10-10-T224124-743.png" group-title="Спорткомплекс 🏆", Turkmen Sport
+#EXTGRP:Спорткомплекс 🏆
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VYfdJ04L/image-41.png" group-title="Спорткомплекс 🏆", Viju+ Sport
+#EXTGRP:Спорткомплекс 🏆
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zTtpS40S/image-91.png" group-title="Спорткомплекс 🏆", Vital Drive
+#EXTGRP:Спорткомплекс 🏆
+https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zTtpS40S/image-91.png" group-title="Спорткомплекс 🏆", Vital Sport
+#EXTGRP:Спорткомплекс 🏆
+https://vslive.pw/stream/48527/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zTtpS40S/image-91.png" group-title="Спорткомплекс 🏆", Vital Basketball
+#EXTGRP:Спорткомплекс 🏆
+https://vslive.pw/stream/48684/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zTtpS40S/image-91.png" group-title="Спорткомплекс 🏆", VITAL Football
+#EXTGRP:Спорткомплекс 🏆
+https://vslive.pw/stream/48682/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zTtpS40S/image-91.png" group-title="Спорткомплекс 🏆", VITAL Plus
+#EXTGRP:Спорткомплекс 🏆
+https://vslive.pw/stream/48683/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zTtpS40S/image-91.png" group-title="Спорткомплекс 🏆", VITAL Tennis
+#EXTGRP:Спорткомплекс 🏆
+https://vslive.pw/stream/48685/index.m3u8
+  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2HRHY0L/image-7.png" tvg-id="" group-title="🌌 Россия Геоблок 🌌", Первый Российский Национальный Канал
 #EXTGRP:🌌 Россия Геоблок 🌌
@@ -31245,6 +31502,59 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",Подарок
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
+
+#EXTINF:-1 group-title="Федеральные",Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+http://95.66.188.74:80/PerviyHD/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="Федеральные",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+
+
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Федеральные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+
+#EXTINF:-1 group-title="Федеральные",МИР 24 FHD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",МИР 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 2
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
@@ -40035,17 +40345,8 @@ https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 6
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка5
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
