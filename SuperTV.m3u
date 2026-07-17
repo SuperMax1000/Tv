@@ -35,9 +35,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/124/logo_256_1655445048.png", Спас
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/AtM2mjbYOJc7fiKdz1ysng,1781247233/streaming/spas/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Спас
 http://31.131.141.195:8000/play/2020/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Федеральные", СТС
@@ -50,10 +47,52 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3 HD
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=_O6ZRJfK1k_4Vq15m0VHXg&e=2069285050&scheme=https
-#EXTINF:-1 group-title="Федеральные ",ПЯТНИЦА! HD
+#EXTINF:-1 group-title="Федеральные",ПЯТНИЦА! HD
 https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=N_clKU9DhT2wtHwrnQNtHg&e=2066519753&scheme=https
+#EXTINF:-1 group-title="Федеральные",ЗВЕЗДА HD
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=hXjqQZCnC74PCA0_2_CX-A&e=2066519791&scheme=https
+#EXTINF:-1 group-title="Федеральные",МИР HD
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
+#EXTINF:-1 group-title="Федеральные",МузТВ HD
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2HRHY0L/image-7.png" tvg-id="" group-title="Российские +", Первый Российский Национальный Канал
+#EXTGRP:Российские +
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mQ9M4gS/image-54.png" tvg-id="ТАСС" group-title="Российские +", ТАСС
+#EXTGRP:Российские +
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="Российские +", Первый канал
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="Российские +", Первый канал
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+1)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="Российские +", Первый канал (+1)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+2)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="Российские +", Первый канал (+2)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+3)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="Российские +", Первый канал (+3)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+4)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="Российские +", Первый канал (+4)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+5)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title"Российские +", Первый канал (+5)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_UUDE_1TV_ULAN/variant.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,Народ Всё Видит
@@ -141,9 +180,8 @@ http://kinowalk.hopto.org/poe2proxodim_live
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Retrovision Movies
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", POISON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/harbingerplay_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Retrovision Motor
+https://live20.bozztv.com/giatvplayout7/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Портал в кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/portal_v_kino_live
@@ -2245,43 +2283,6 @@ https://vslive.pw/stream/48683/index.m3u8
 https://vslive.pw/stream/48685/index.m3u8
   
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2HRHY0L/image-7.png" tvg-id="" group-title="🌌 Россия Геоблок 🌌", Первый Российский Национальный Канал
-#EXTGRP:🌌 Россия Геоблок 🌌
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mQ9M4gS/image-54.png" tvg-id="ТАСС" group-title="🌌 Россия Геоблок 🌌", ТАСС
-#EXTGRP:🌌 Россия Геоблок 🌌
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал HD+
-#EXTGRP:🌌 Россия Геоблок 🌌
-https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/-EupBWKWK4M_Gw
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+1)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+1)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+2)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+2)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+3)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+3)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+4)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+5)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+5)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_UUDE_1TV_ULAN/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Первый канал (+6)" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png" group-title="🌌 Россия Геоблок 🌌", Первый канал (+6)
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
