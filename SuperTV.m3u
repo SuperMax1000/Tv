@@ -992,6 +992,138 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offs
 #EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель (+3)" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (+3)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель (+7)" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (+7)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -1ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -1ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -2ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -2ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -3ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -3ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -4ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -4ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -5ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -5ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -6ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -6ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -7ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -7ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -8ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -8ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -9ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -9ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -10ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -10ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -11ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -11ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -12ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -12ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -13ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -13ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -14ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -14ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -15ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -15ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель -16ч
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-17)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-51200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-18)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-64800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-19)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-68400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-20)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-72000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-21)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-75600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-22)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-79200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", ,Карусель (-23)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-82800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-24)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-86400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-25)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-90000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-26)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-93600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-27)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-97200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-28)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-100800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-29)
+#EXTGRP:Российские +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-104400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Российские +", Карусель (-30)
+#EXTGRP:Российские + 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-108000
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,ONE
@@ -1330,9 +1462,6 @@ rtmp://vkvsd158.okcdn.ru/playback/10332204051428?stkn=hVx0kn1sfv1eSrGAlIcUsySgZk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Телеканал ЛТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 rtmp://vkvsd70.okcdn.ru/playback/6374540258174?stkn=xq3Mb7tqvmgs58xveKmbdKCzSSEC_rQ3uMikuKbmMkmMnk3xsTTKPz8RETCmOZnBCis_rqufnCM&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,КИНО ВК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,КИНО ВК 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -4386,142 +4515,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-108000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель (+3)" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (+3)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель (+7)" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -1ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -1ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -2ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -2ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -3ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -3ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -4ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -4ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -5ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -5ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -6ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -6ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -7ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -7ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -8ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -8ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -9ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -9ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -10ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -10ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -11ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -11ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -12ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -12ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -13ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -13ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -14ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -14ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -15ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -15ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель -16ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-17)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-51200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-18)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-64800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-19)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-68400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-20)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-72000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-21)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-75600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-22)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-79200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", ,Карусель (-23)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-82800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-24)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-86400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-25)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-90000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-26)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-93600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-27)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-97200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-28)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-100800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-29)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-104400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель -16ч" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="🌌 Россия Геоблок 🌌", Карусель (-30)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-108000
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Мир" tvg-logo="https://i.ibb.co/6Jy5f9Y/resize-9.png" group-title="🌌 Россия Геоблок 🌌", Мир
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
