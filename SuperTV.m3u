@@ -1396,12 +1396,148 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-10
 #EXTGRP:Российские + 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-108000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+2)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (+2)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+4)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (+4)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+7)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (+7)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -1ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -1ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -2ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -2ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -3ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -3ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -4ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -4ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -5ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -5ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -6ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -6ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -7ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -7ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -8ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -8ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -9ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -9ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -10ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -10ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -11ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -11ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -12ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -12ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -13ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -13ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -14ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -14ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -15ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -15ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -16ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -16ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -17ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-17)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-51200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -18ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-18)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-64800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -19ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-19)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-68400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -20ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-20)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-72000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -21ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-21)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-75600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -22ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-22)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-79200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -23ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-23)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-82800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -24ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-24)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-86400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -25ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-25)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-90000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -26ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-26)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-93600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -27ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-27)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-97200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -28ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-28)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-100800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -29ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-29)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-104400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -30ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (-30)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-108000
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png" tvg-id="" group-title="🔴 Кинозалы 🔴", MrErrorHQ
 https://assimilator.tv/uploads/MrErrorHQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,CherTV Заруба + KinoMix
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png" tvg-id="" group-title="🔴 Кинозалы 🔴", DreakingDad
+https://assimilator.tv/uploads/DreakingDad.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="🔴 Кинозалы 🔴" ,KinoMix
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,Viasat Kino Comedy HD
