@@ -1397,75 +1397,75 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-108000
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+2)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (+2)
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+4)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ (+7)" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -1ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -1ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-3600
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -2ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -2ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-7200
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -3ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -3ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-10800
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -4ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -4ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-14400
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -5ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -5ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -6ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -6ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-21600
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -7ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -7ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-25200
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -8ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -8ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-28800
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -9ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -9ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-32400
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -10ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -10ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-36000
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -11ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -11ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-39600
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -12ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -12ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-43200
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -13ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -13ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-46800
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -14ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -14ч
-#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTGRP:Российские +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-50400
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="РЕН ТВ -15ч" tvg-logo="https://i.ibb.co/Yjjs5Dt/image-37.png" group-title="Российские + ", РЕН ТВ -15ч
@@ -1532,14 +1532,150 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-108000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+2)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (+2)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+4)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (+4)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_4//variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+7)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (+7)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_7//variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -1ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -1ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -2ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -2ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -3ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -3ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -4ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -4ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -5ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -5ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -6ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -6ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -7ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -7ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -8ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -8ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -9ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -9ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -10ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -10ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -11ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -11ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -12ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -12ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -13ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -13ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -14ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -14ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -15ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -15ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -16ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС -16ч
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -17ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-17)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-51200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -18ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-18)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-64800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -19ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-19)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-68400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -20ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-20)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-72000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -21ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-21)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-75600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -22ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-22)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-79200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -23ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-23)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-82800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -24ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-24)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-86400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -25ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-25)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-90000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -26ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-26)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-93600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -27ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-27)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-97200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -28ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-28)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-100800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -29ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-29)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-104400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -30ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="Российские + ", СТС (-30)
+#EXTGRP:🌌 Россия Геоблок 🌌
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-108000
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png" tvg-id="" group-title="🔴 Кинозалы 🔴", MrErrorHQ
 https://assimilator.tv/uploads/MrErrorHQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png" tvg-id="" group-title="🔴 Кинозалы 🔴", DreakingDad
 https://assimilator.tv/uploads/DreakingDad.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="🔴 Кинозалы 🔴" ,KinoMix
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png" tvg-id="" group-title="🔴 Кинозалы 🔴",APPLE TV MIX 
+https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=ahuXGeS6k7qpWvoUD8XSmA&e=2089561706&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🔴 Кинозалы 🔴" ,Movify Kino
@@ -4038,146 +4174,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-1
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-108000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+2)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (+2)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+4)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (+4)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_4//variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС (+7)" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (+7)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_7//variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -1ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -1ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -2ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -2ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -3ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -3ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -4ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -4ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -5ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -5ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -6ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -6ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -7ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -7ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -8ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -8ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -9ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -9ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -10ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -10ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -11ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -11ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -12ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -12ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -13ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -13ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -14ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -14ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -15ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -15ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -16ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС -16ч
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -17ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-17)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-51200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -18ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-18)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-64800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -19ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-19)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-68400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -20ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-20)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-72000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -21ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-21)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-75600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -22ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-22)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-79200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -23ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-23)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-82800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -24ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-24)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-86400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -25ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-25)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-90000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -26ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-26)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-93600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -27ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-27)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-97200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -28ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-28)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-100800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -29ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-29)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-104400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС -30ч" tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png" group-title="🌌 Россия Геоблок 🌌", СТС (-30)
-#EXTGRP:🌌 Россия Геоблок 🌌
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-108000
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС Love" tvg-logo="https://i.ibb.co/Mf23WgS/image-42.png" group-title="🌌 Россия Геоблок 🌌", СТС Love
 #EXTGRP:🌌 Россия Геоблок 🌌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -30877,11 +30873,6 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",Подарок
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1 group-title="Федеральные",Первый HD
 http://95.66.188.74/PerviyHD/mono.m3u8
