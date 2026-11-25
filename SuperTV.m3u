@@ -15,10 +15,10 @@ https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=KR
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия К HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source=" ?offset=-${offset}&utcstart=${timestamp}" tvg-name="Россия 24" tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png" group-title="Федеральные", Россия 24 HD
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Россия 24" tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png" group-title="Федеральные", Россия 24 HD
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Карусель" tvg-logo="https://i.ibb.co/F59RMJh/resize-51.png" group-title="Федеральные", Карусель
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
